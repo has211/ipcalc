@@ -1,6 +1,6 @@
 About
 =====
-Updated for lab
+Updated for SE lab
 This module allows you to perform IP subnet calculations, there is support for
 both IPv4 and IPv6 CIDR notation.
 
